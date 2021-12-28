@@ -1,4 +1,4 @@
-package com.cjr;
+package main.java.com.cjr;
 
 public class TestGit {
     public static void main(String[] args) {
